@@ -82,6 +82,4 @@ $env:JARVIS_AI_MODEL = "llama3.2"
 - Downloaded wallpapers are saved under `wallpapers/`.
 - If text-to-speech is unavailable on a machine, the app still shows the joke or story text normally.
 
-## License
 
-This project is for educational and personal use. Add your own preferred license if you plan to publish it publicly.
