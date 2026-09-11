@@ -36,7 +36,7 @@ DSC Jarvis Lite is a Python and Tkinter desktop assistant with voice interaction
 JarvisLite/
 ├── jarvis_lite.py
 ├── dsc_logo.png
-├── image_ai_model/       # optional local cache; ignored by Git
+├── image_ai_model/       
 ├── wallpapers/
 ├── requirements.txt
 ├── README.md
@@ -92,6 +92,8 @@ create a futuristic city at sunset
 photo snowy mountain lake
 show latest Python tutorials
 download 3 photos of red cars
+call dad
+send dad I Will be home by 10
 ```
 
 Generated and edited images are saved as PNG files in `wallpapers/`. The first local image-generation request downloads the DreamShaper model if `image_ai_model/` is not present, then loads it; this may take several minutes and requires roughly 8 GB of disk space on a CPU-only computer. The model files are intentionally excluded from Git because they are too large for a normal GitHub repository.
