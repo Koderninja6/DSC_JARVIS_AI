@@ -6,6 +6,7 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+image_ai_model/
 wallpapers/*.jpg
 wallpapers/*.jpeg
 wallpapers/*.png
